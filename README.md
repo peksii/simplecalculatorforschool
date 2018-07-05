@@ -1,1 +1,1 @@
-# secretgameproject
+# simplecalculatorforschool
